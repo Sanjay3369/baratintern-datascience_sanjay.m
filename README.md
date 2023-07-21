@@ -1,4 +1,3 @@
-![image](https://github.com/Sanjay3369/baratintern-datascience_sanjay.m/assets/125995018/e0131802-03b1-420d-b759-6303d61fc1c0)
 
 
 ![image](https://github.com/Sanjay3369/baratintern-datascience_sanjay.m/assets/125995018/71a23e0b-4617-4b86-9f04-f0b81d31018d)
