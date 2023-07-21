@@ -9,6 +9,7 @@ https://github.com/Sanjay3369/baratintern-datascience_sanjay.m/blob/main/titanic
 https://github.com/Sanjay3369/baratintern-datascience_sanjay.m/blob/main/number_recognition_baratintern_datascience_sanjay.m_.ipynb
 
 linkedin
+
 welcome letter https://www.linkedin.com/posts/sanjay-m-488315270_data-science-intern-activity-7086252553960632320-0HAV?utm_source=share&utm_medium=member_desktop
 
 work status https://www.linkedin.com/posts/sanjay-m-488315270_successfully-completed-virtual-internship-activity-7086256067713634304-EByd?utm_source=share&utm_medium=member_desktop
